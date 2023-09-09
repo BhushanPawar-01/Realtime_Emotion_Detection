@@ -1,7 +1,11 @@
 ---
-Title: Realtime Emotion Detection
+title: Realtime Emotion Detection
+emoji: 
+colorFrom: blue
+colorTo: green
 sdk: gradio
-App_file: rtml_src.py
+sdk_version: 3.43.2
+app_file: rtml_src.py
 pinned: false
 ---
 
